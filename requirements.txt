@@ -1,0 +1,7 @@
+numpy
+numba
+pytest
+ase
+#mdanalysis
+matplotlib
+iodata
