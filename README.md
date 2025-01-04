@@ -1,8 +1,8 @@
 Things to do:
 
-  topology reader
+  topology reader (done)
   
-  initial config reader
+  initial config reader (next up)
   
   LJ energy
   
@@ -29,3 +29,7 @@ Things to do:
   heat capacity
   
   RDF
+
+  Alchemical
+
+  JAX acceleration (GPU)
