@@ -21,7 +21,7 @@ def transfer_masses(ff_params):
                     ff_params.atomtypes[i].charge = params.atoms_dict[atomtypes.name].charge
                     found_match = True
         if not found_match:
-            raise ValueError(f"Atom type '{atomtype.name}' not found in atoms")
+            raise ValueError(f"Atom type '{atomtypes.name}' not found in atoms")
 
     return ff_params
     
