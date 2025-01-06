@@ -16,7 +16,7 @@ Things to do:
   
   rigid constraints for water (settle)
   
-  Coulomb
+  Coulomb (Done, needs testing only)
   
     Short range
     
